@@ -1,0 +1,66 @@
+[
+  { "_id": "RS101",
+    "name": "Web Development",
+    "number": "CS5610",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "color": "rgb(214, 169, 54)"
+  },
+  { "_id": "RS102",
+    "name": "Algorithms",
+    "number": "CS5800",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "color": "rgb(143, 26, 39)"
+  },
+  { "_id": "RS103",
+    "name": "FSE",
+    "number": "CS5500",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "color": "rgb(214, 169, 54)"
+  },
+  { "_id": "RS101",
+    "name": "Web Development",
+    "number": "CS5610",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "color": "rgb(214, 169, 54)"
+  },
+  { "_id": "RS102",
+    "name": "Algorithms",
+    "number": "CS5800",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "color": "rgb(143, 26, 39)"
+  },
+  { "_id": "RS103",
+    "name": "FSE",
+    "number": "CS5500",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "color": "rgb(214, 169, 54)"
+  },
+  { "_id": "RS101",
+    "name": "Web Development",
+    "number": "CS5610",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "color": "rgb(214, 169, 54)"
+  },
+  { "_id": "RS102",
+    "name": "Algorithms",
+    "number": "CS5800",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "color": "rgb(143, 26, 39)"
+  },
+  { "_id": "RS103",
+    "name": "FSE",
+    "number": "CS5500",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "color": "rgb(214, 169, 54)"
+  }
+]
+

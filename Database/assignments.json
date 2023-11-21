@@ -1,0 +1,14 @@
+[
+  { "_id": "A101", "title": "A1:ENV+HTML","description":"", "course": "RS101" },
+  { "_id": "A102", "title": "A2: CSS+BOOTSTRAP","description":"", "course": "RS101" },
+  { "_id": "A103", "title": "A3:JS+ REACT", "description":"", "course": "RS101" },
+  { "_id": "A201", "title": "A1:Algorithms","description":"" , "course": "RS102" },
+  { "_id": "A202", "title": "A2: Basic Theorems","description":"" , "course": "RS102" },
+  { "_id": "A203", "title": "A3: Dynamic Programming", "description":"" ,"course": "RS102" },
+  { "_id": "A301", "title": "A1: Introduction to D lang", "description":"" ,"course": "RS103" },
+  { "_id": "A302", "title": "A2: D Lang Basics", "description":"" ,"course": "RS103" },
+  { "_id": "A303", "title": "A3: SDLC Testing", "description":"" ,"course": "RS103"},
+  {
+    "_id": "A304", "title": "New Assignment", "description":"" ,"course": "RS103"
+  }
+]
